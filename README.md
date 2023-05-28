@@ -1,7 +1,3 @@
-![Uploading 1gif.gif…]()
-![LDPlayer-2023-05-29-00-25-56-_online-video-cutter com_-_1_]
-![LDPlayer-2023-05-29-00-25-56-_online-video-cutter com_-_3_]
-![LDPlayer-2023-05-29-00-25-56-_online-video-cutter com_-_4_]
 ![1](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/6dd0c892-84fe-4838-b6fe-5131f9a79549)
 ![2](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/fcae056e-a459-4972-82a9-ee3565d1b033)
 ![3](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/d4a425f8-22c1-4c2a-b9d9-8376f39a066a)
