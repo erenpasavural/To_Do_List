@@ -1,7 +1,3 @@
-![Uploading 1gif.gif…]()
-![Uploading 2gif.gif…]()
-![Uploading 3gif.gif…]()
-![Uploading 4gif.gif…]()
 ![1](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/6dd0c892-84fe-4838-b6fe-5131f9a79549)
 ![2](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/fcae056e-a459-4972-82a9-ee3565d1b033)
 ![3](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/d4a425f8-22c1-4c2a-b9d9-8376f39a066a)
@@ -13,4 +9,11 @@
 ![9](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/b5b466ed-13a2-471b-80c1-367ce39e6dfd)
 ![10](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/98f5baf6-bdc3-4971-b1c2-42465ade1993)
 ![11](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/8caa9b14-3f35-4fb4-92a8-4f00a7ce60f1)
+
 ![use](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/99770b0f-9fb3-496d-ad2a-97032bc5a6df)
+
+
+![1gif](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/515252f6-a0d9-4ccf-96cc-e08f691bd8b2)
+![2gif](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/251e9d01-78a1-4a5e-8e85-a6a24f5ed038)
+![3gif](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/84feb9ec-7bdc-4c4e-9d61-1d045031e1c4)
+![4gif](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/df76aeb8-2b0f-4db1-b727-097c065887a0)
