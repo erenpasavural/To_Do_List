@@ -12,6 +12,7 @@
 
 ![use](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/99770b0f-9fb3-496d-ad2a-97032bc5a6df)
 
+![1sgif](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/9707ba6d-e131-4e50-8100-5e9c4d9ecb35)
 
 ![1gif](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/515252f6-a0d9-4ccf-96cc-e08f691bd8b2)
 ![2gif](https://github.com/erenpasavural/To_Do_List_with_Room/assets/101592634/251e9d01-78a1-4a5e-8e85-a6a24f5ed038)
